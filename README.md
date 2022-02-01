@@ -6,7 +6,8 @@ Report and Dashboard Regarding COVID-19 for 5 main Countries, including UK, from
 - Key metrics about number of cases, vaccination and deaths
 - UK data regardgin Covid situation 
 
+SQL Statements for final report [Here](https://github.com/LucianoBesada/Covid_Report/blob/main/Covid_SQL.sql) <br>
+Online Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiZGI5ZDRiMzAtMDNmZC00MzMyLWIzOGEtY2JiYTFjMDllZjdmIiwidCI6IjdiMjIzMjk0LTFhMjktNDYxYi1iYmJkLTU0NTI0MGIxNjQ3NiJ9&pageName=ReportSection) <br>
+
 Information delivered by [*Our world in Data*](https://ourworldindata.org/covid-deaths)
 
-SQL Statements for final report [Here](https://github.com/LucianoBesada/Covid_Report/blob/main/Covid_SQL.sql)
-Online Dashboard [Here](https://app.powerbi.com/view?r=eyJrIjoiZGI5ZDRiMzAtMDNmZC00MzMyLWIzOGEtY2JiYTFjMDllZjdmIiwidCI6IjdiMjIzMjk0LTFhMjktNDYxYi1iYmJkLTU0NTI0MGIxNjQ3NiJ9&pageName=ReportSection)
